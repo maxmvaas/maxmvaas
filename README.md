@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Max
-- 👀 I’m strongly interested in Mobile Dev.
+- 👋 Hi, I’m Max.
+- 👀 I’m strongly interested in Mobile Development.
 - 🌱 I’m currently learning Android Native Applications Development.
 - 💞️ In the future I want to learn how to develop applications for all platforms.
 - 📫 How to reach me: [Telegram](http://t.me/maxmvaas/)
